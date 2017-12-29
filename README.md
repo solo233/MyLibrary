@@ -1,4 +1,4 @@
 # MyLibrary
-乱七八糟的自用组件
+some tools for personal use
 
-*注：依赖MRTK*
+*tips：base on MRTK*
