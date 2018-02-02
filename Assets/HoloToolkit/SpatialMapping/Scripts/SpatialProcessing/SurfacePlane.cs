@@ -99,7 +99,9 @@ namespace HoloToolkit.Unity.SpatialMapping
             {
                 if (IsVisible != value)
                 {
-                    gameObject.GetComponent<Renderer>().enabled = value;
+                    //for this project
+                    //gameObject.GetComponent<Renderer>().enabled = value;
+                    gameObject.GetComponent<Renderer>().enabled = false;
                 }
             }
         }
