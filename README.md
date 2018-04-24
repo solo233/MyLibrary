@@ -14,7 +14,7 @@ some tools for personal use
 
 - enable UI Text dragable by  hold on hololens
 
-###SpetialMesh
+### SpetialMesh
 
 - draw mesh on walls and floors
 
