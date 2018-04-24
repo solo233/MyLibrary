@@ -1,12 +1,15 @@
 # MyLibrary
 some tools for personal use
 ## Content 
-### WatchCamera
+### WatchCamera 
 - rotatable camera looking at sth and a room box
-###NewMenu
+
+### NewMenu 
 - dynamic menu For HoloLens
-###AdjustFrame
+
+### AdjustFrame
 - adjustframe to move sth(by arrow), bounding box in MRDesignLabs may be better
+
 ### CircleProcess
 - circle progress bar 
 
